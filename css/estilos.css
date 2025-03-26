@@ -1,0 +1,32 @@
+h1 {
+    color:#2c3250;
+    background-color: #f4f4f4;
+    text-transform: uppercase;
+    
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+body {
+    color:#333;
+    text-align: justify;
+}
+
+h2, h3 {
+    color:#33495e;
+    text-transform: capitalize;
+}
+
+strong {
+    color: #e74c3c;
+    text-decoration-line: underline;
+}
+
+em {
+    color:#2980b9;
+    text-decoration-line: overline;
+
+
+}
